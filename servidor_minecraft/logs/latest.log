@@ -1,0 +1,225 @@
+[02:05:54] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[02:05:54] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[02:05:55] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:05:55] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:05:55] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[02:06:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:06:02] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[02:06:02] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[02:06:03] [ServerMain/INFO]: No existing world data, creating new world
+[02:06:03] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 8481ms.
+[02:06:04] [ServerMain/INFO]: Loaded 1290 recipes
+[02:06:04] [ServerMain/INFO]: Loaded 1399 advancements
+[02:06:05] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:06:05] [Server thread/INFO]: Loading properties
+[02:06:05] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[02:06:06] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:06:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:06:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:06:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:06:07] [Server thread/INFO]: Default game type: SURVIVAL
+[02:06:07] [Server thread/INFO]: Generating keypair
+[02:06:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:06:07] [Server thread/INFO]: Using epoll channel type
+[02:06:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:06:07] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[02:06:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:06:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:06:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:06:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:06:07] [Server thread/INFO]: Preparing level "world"
+[02:06:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:06:24] [Server thread/INFO]: Time elapsed: 5688 ms
+[02:06:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:06:26] [Server thread/INFO]: Time elapsed: 1520 ms
+[02:06:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:06:26] [Server thread/INFO]: Time elapsed: 513 ms
+[02:06:26] [Server thread/INFO]: [spark] Starting background profiler...
+[02:06:28] [Server thread/INFO]: Done preparing level "world" (21.381s)
+[02:06:28] [Server thread/INFO]: Running delayed init tasks
+[02:06:28] [Server thread/INFO]: Done (34.485s)! For help, type "help"
+[02:06:28] [Server thread/INFO]: *************************************************************************************
+[02:06:28] [Server thread/INFO]: This is the first time you're starting this server.
+[02:06:28] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[02:06:28] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[02:06:28] [Server thread/INFO]: *************************************************************************************
+[02:06:28] [Server thread/INFO]: Timings Reset
+[02:06:58] [User Authenticator #0/INFO]: UUID of player zifonduo is a2880314-2a0d-3c59-8243-436e6f0ac91b
+[02:07:00] [Server thread/INFO]: zifonduo joined the game
+[02:07:00] [Server thread/INFO]: zifonduo[/127.242.92.28:56945] logged in with entity id 77 at ([world]5.5, 98.0, 7.5)
+[02:10:24] [User Authenticator #1/INFO]: UUID of player Manu_06_ is 75656443-8275-3e35-9ea5-9cff6e6cc417
+[02:10:26] [Server thread/INFO]: Manu_06_ joined the game
+[02:10:26] [Server thread/INFO]: Manu_06_[/127.245.191.11:60205] logged in with entity id 796 at ([world]9.5, 97.0, 5.5)
+[02:10:29] [User Authenticator #1/INFO]: UUID of player Matt_Shun is b0606383-0600-3cb8-8d70-8d791e934698
+[02:10:30] [Server thread/INFO]: Matt_Shun joined the game
+[02:10:30] [Server thread/INFO]: Matt_Shun[/127.62.145.89:38503] logged in with entity id 799 at ([world]2.5, 98.0, -3.5)
+[02:11:26] [Server thread/INFO]: Matt_Shun fell from a high place
+[02:12:16] [Server thread/INFO]: Manu_06_ was doomed to fall
+[02:12:32] [Server thread/INFO]: Matt_Shun has made the advancement [Stone Age]
+[02:12:52] [Server thread/INFO]: Matt_Shun has made the advancement [Getting an Upgrade]
+[02:14:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+dificulty hard<--[HERE]
+[02:14:35] [Server thread/INFO]: The difficulty has been set to Hard
+[02:15:28] [Server thread/INFO]: Manu_06_ has made the advancement [Stone Age]
+[02:16:04] [Server thread/INFO]: Manu_06_ has made the advancement [Getting an Upgrade]
+[02:17:12] [Server thread/INFO]: Manu_06_ has made the advancement [Acquire Hardware]
+[02:20:03] [Server thread/INFO]: zifonduo has made the advancement [Sweet Dreams]
+[02:20:10] [Server thread/INFO]: Manu_06_ has made the advancement [Sweet Dreams]
+[02:20:50] [Server thread/INFO]: Matt_Shun lost connection: Disconnected
+[02:20:50] [Server thread/INFO]: Matt_Shun left the game
+[02:22:35] [Server thread/INFO]: zifonduo has made the advancement [A Seedy Place]
+[02:23:04] [Server thread/INFO]: zifonduo has made the advancement [Stone Age]
+[02:23:26] [Server thread/INFO]: zifonduo has made the advancement [Getting an Upgrade]
+[02:29:00] [User Authenticator #2/INFO]: UUID of player Mipasu is c6289090-4281-364d-84c0-8a2d8d95cbac
+[02:29:01] [Server thread/INFO]: Mipasu joined the game
+[02:29:01] [Server thread/INFO]: Mipasu[/127.38.112.29:48431] logged in with entity id 4801 at ([world]-6.5, 91.0, 2.5)
+[02:30:52] [Server thread/INFO]: Mipasu has made the advancement [Stone Age]
+[02:30:57] [Server thread/INFO]: Mipasu has made the advancement [Getting an Upgrade]
+[02:32:53] [User Authenticator #3/INFO]: UUID of player Matt_Shun is b0606383-0600-3cb8-8d70-8d791e934698
+[02:32:54] [Server thread/INFO]: Matt_Shun joined the game
+[02:32:54] [Server thread/INFO]: Matt_Shun[/127.62.145.89:46387] logged in with entity id 6136 at ([world]-64.69999998807907, 66.0, -51.30000001192093)
+[02:33:42] [Async Chat Thread - #0/INFO]: [Not Secure] <zifonduo> -179 95
+[02:33:48] [Async Chat Thread - #0/INFO]: [Not Secure] <Matt_Shun> tt
+[02:33:50] [Async Chat Thread - #0/INFO]: [Not Secure] <zifonduo> aldea
+[02:34:00] [Server thread/INFO]: Mipasu was blown up by Creeper
+[02:34:32] [Server thread/INFO]: Matt_Shun has made the advancement [Sweet Dreams]
+[02:34:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Matt_Shun> zzzzzz
+[02:34:54] [Async Chat Thread - #0/INFO]: [Not Secure] <zifonduo> -179 95
+[02:35:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Matt_Shun> zzzzzzzzzzzz
+[02:35:29] [Server thread/INFO]: zifonduo has made the advancement [Monster Hunter]
+[02:35:30] [Server thread/INFO]: Mipasu has made the advancement [Sweet Dreams]
+[02:35:50] [Async Chat Thread - #0/INFO]: [Not Secure] <zifonduo> zzz
+[02:35:51] [Async Chat Thread - #0/INFO]: [Not Secure] <zifonduo> zz
+[02:35:51] [Async Chat Thread - #0/INFO]: [Not Secure] <zifonduo> z
+[02:35:53] [Async Chat Thread - #1/INFO]: [Not Secure] <Matt_Shun> zzzz
+[02:35:53] [Async Chat Thread - #1/INFO]: [Not Secure] <Matt_Shun> z
+[02:35:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Matt_Shun> z
+[02:35:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Matt_Shun> z
+[02:35:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Matt_Shun> z
+[02:35:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Matt_Shun> z
+[02:35:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Matt_Shun> z
+[02:35:54] [Async Chat Thread - #1/INFO]: [Not Secure] <Matt_Shun> zz
+[02:35:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Matt_Shun> z
+[02:36:15] [Server thread/INFO]: Manu_06_ has made the advancement [Monster Hunter]
+[02:39:51] [Server thread/INFO]: zifonduo has made the advancement [Hot Stuff]
+[02:42:13] [Server thread/INFO]: zifonduo has made the advancement [Acquire Hardware]
+[02:46:19] [Server thread/INFO]: Manu_06_ issued server command: /msg zifonduo pone pa que se vean los corazones en el tab
+[02:46:37] [Async Chat Thread - #3/INFO]: [Not Secure] <Manu_06_> ZZZZZZZZZZZZZZZZZZZZZZZ
+[02:46:50] [Async Chat Thread - #3/INFO]: [Not Secure] <Matt_Shun> zifonduo
+[02:46:50] [Server thread/INFO]: zifonduo lost connection: Disconnected
+[02:46:50] [Server thread/INFO]: zifonduo left the game
+[02:47:16] [User Authenticator #4/INFO]: UUID of player zifonduo is a2880314-2a0d-3c59-8243-436e6f0ac91b
+[02:47:17] [Server thread/INFO]: zifonduo joined the game
+[02:47:17] [Server thread/INFO]: zifonduo[/127.242.92.28:56059] logged in with entity id 12320 at ([world]-229.129472861808, 44.0, 56.30000001192093)
+[02:48:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/scoreboard objectives add vida health<--[HERE]
+[02:48:45] [Server thread/INFO]: Created new objective [vida]
+[02:48:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+score board objectives setdisplay list vida<--[HERE]
+[02:49:13] [Server thread/INFO]: Set display slot list to show objective vida
+[02:51:26] [Server thread/INFO]: Villager Villager['Nitwit'/393, uuid='bfc9731c-2bf2-4a45-b608-110d9ee357d1', l='ServerLevel[world]', x=-226.30, y=64.05, z=23.10, cpos=[-15, 1], tl=48537, v=true] died, message: 'Nitwit was slain by Zombie'
+[02:51:51] [Server thread/INFO]: Mipasu was slain by Spider
+[02:54:08] [Server thread/INFO]: Mipasu has made the advancement [Monster Hunter]
+[02:56:48] [Server thread/INFO]: Matt_Shun has made the advancement [Acquire Hardware]
+[02:57:52] [User Authenticator #5/INFO]: UUID of player Titi909q is ee47c5ab-1b1a-3233-8bff-516adb11c59d
+[02:57:52] [Server thread/INFO]: Manu_06_ lost connection: Timed out
+[02:57:52] [Server thread/INFO]: Manu_06_ left the game
+[02:57:53] [Server thread/INFO]: Titi909q joined the game
+[02:57:53] [Server thread/INFO]: Titi909q[/127.155.52.3:55455] logged in with entity id 15509 at ([world]1.5, 98.0, -3.5)
+[02:58:09] [Server thread/INFO]: Mipasu has made the advancement [Acquire Hardware]
+[02:58:15] [Server thread/INFO]: Mipasu has made the advancement [Isn't It Iron Pick]
+[02:58:24] [User Authenticator #5/INFO]: UUID of player Manu_06_ is 75656443-8275-3e35-9ea5-9cff6e6cc417
+[02:58:26] [Server thread/INFO]: Manu_06_ joined the game
+[02:58:26] [Server thread/INFO]: Manu_06_[/127.245.191.11:34877] logged in with entity id 15752 at ([world]-137.8186614307561, 70.17319996740818, 63.16812121540243)
+[02:58:38] [Server thread/INFO]: Mipasu has made the advancement [Diamonds!]
+[02:59:11] [Server thread/INFO]: Titi909q was shot by Skeleton
+[02:59:29] [Server thread/INFO]: zifonduo lost connection: Disconnected
+[02:59:29] [Server thread/INFO]: zifonduo left the game
+[02:59:48] [User Authenticator #6/INFO]: UUID of player zifonduo is a2880314-2a0d-3c59-8243-436e6f0ac91b
+[02:59:49] [Server thread/INFO]: zifonduo joined the game
+[02:59:49] [Server thread/INFO]: zifonduo[/127.242.92.28:33775] logged in with entity id 16355 at ([world]-261.31294776245204, 16.0, 63.35358975765432)
+[02:59:53] [Server thread/INFO]: zifonduo was shot by Skeleton
+[03:00:32] [Server thread/INFO]: Manu_06_ was slain by Zombie
+[03:02:00] [Server thread/INFO]: Matt_Shun lost connection: Disconnected
+[03:02:00] [Server thread/INFO]: Matt_Shun left the game
+[03:02:28] [Server thread/INFO]: Titi909q was shot by Skeleton
+[03:02:56] [Server thread/INFO]: Mipasu was blown up by Creeper
+[03:04:52] [Server thread/INFO]: zifonduo was shot by Skeleton
+[03:05:04] [Server thread/INFO]: Manu_06_ drowned
+[03:05:40] [Server thread/INFO]: Manu_06_ lost connection: Timed out
+[03:05:40] [Server thread/INFO]: Manu_06_ left the game
+[03:06:00] [Server thread/INFO]: Mipasu has made the advancement [Cover Me with Diamonds]
+[03:08:55] [User Authenticator #7/INFO]: UUID of player Manu_06_ is 75656443-8275-3e35-9ea5-9cff6e6cc417
+[03:09:01] [Server thread/INFO]: Manu_06_ joined the game
+[03:09:01] [Server thread/INFO]: Manu_06_[/127.245.191.11:53655] logged in with entity id 20718 at ([world]-155.69999998807907, 39.341352343883194, 30.161577584270226)
+[03:09:51] [Server thread/INFO]: Manu_06_ issued server command: /tp @s -156 27.5 30
+[03:12:24] [Server thread/INFO]: zifonduo was slain by Iron Golem
+[03:13:01] [Server thread/INFO]: Mipasu was shot by Skeleton
+[03:13:39] [Async Chat Thread - #4/INFO]: [Not Secure] <Manu_06_> OPCIONES
+[03:13:44] [Async Chat Thread - #4/INFO]: [Not Secure] <Manu_06_> ACCESIBILIDAD
+[03:14:08] [Server thread/INFO]: Mipasu issued server command: /tp @s -422 -25.5 448
+[03:14:15] [Async Chat Thread - #4/INFO]: [Not Secure] <Mipasu> -422 -25.5 448
+[03:14:38] [Server thread/INFO]: Teleported Mipasu to -421.500000, -25.500000, 448.500000
+[03:15:28] [Async Chat Thread - #6/INFO]: [Not Secure] <zifonduo> -144 71 aldea
+[03:16:07] [Server thread/INFO]: Titi909q has made the advancement [Stone Age]
+[03:16:56] [Server thread/INFO]: Titi909q issued server command: /kill
+[03:17:08] [Server thread/INFO]: Titi909q fell from a high place
+[03:17:48] [Server thread/INFO]: Titi909q has made the advancement [Getting an Upgrade]
+[03:18:43] [Async Chat Thread - #8/INFO]: [Not Secure] <Manu_06_> CUBOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[03:19:45] [Server thread/INFO]: Titi909q has made the advancement [Monster Hunter]
+[03:20:55] [Server thread/INFO]: Teleported Mipasu to zifonduo
+[03:21:54] [Server thread/INFO]: Titi909q has made the advancement [Acquire Hardware]
+[03:21:58] [Server thread/INFO]: zifonduo was slain by Mipasu
+[03:22:07] [Server thread/INFO]: Titi909q has made the advancement [Isn't It Iron Pick]
+[03:22:20] [Server thread/INFO]: Titi909q has made the advancement [Suit Up]
+[03:23:11] [Server thread/WARN]: Mipasu moved too quickly! 2.663927231832531,2.203264399331289,-11.550190848983519
+[03:23:27] [Server thread/INFO]: Titi909q lost connection: Disconnected
+[03:23:27] [Server thread/INFO]: Titi909q left the game
+[03:23:34] [User Authenticator #8/INFO]: UUID of player Titi909q is ee47c5ab-1b1a-3233-8bff-516adb11c59d
+[03:23:35] [Server thread/INFO]: Titi909q joined the game
+[03:23:35] [Server thread/INFO]: Titi909q[/127.155.52.3:60839] logged in with entity id 26621 at ([world]116.07741556045052, 21.611135989440918, -132.4347746769371)
+[03:23:48] [Async Chat Thread - #10/INFO]: [Not Secure] <Titi909q> host en peru
+[03:23:51] [Async Chat Thread - #10/INFO]: [Not Secure] <Mipasu> sv mio
+[03:23:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Titi909q> lauch dominada
+[03:24:03] [Async Chat Thread - #10/INFO]: [Not Secure] <Mipasu> lauch
+[03:26:39] [Server thread/INFO]: zifonduo burned to death
+[03:26:43] [Async Chat Thread - #12/INFO]: [Not Secure] <Mipasu> xd
+[03:28:17] [Server thread/INFO]: Titi909q has made the advancement [Not Today, Thank You]
+[03:29:11] [Server thread/INFO]: Titi909q has made the advancement [Diamonds!]
+[03:30:42] [Server thread/INFO]: Manu_06_ has made the advancement [Hot Stuff]
+[03:33:14] [Server thread/INFO]: Mipasu lost connection: Disconnected
+[03:33:14] [Server thread/INFO]: Mipasu left the game
+[03:36:21] [Server thread/INFO]: Titi909q was shot by Skeleton
+[03:36:24] [Server thread/INFO]: Titi909q lost connection: Disconnected
+[03:36:24] [Server thread/INFO]: Titi909q left the game
+[03:42:54] [Server thread/INFO]: Manu_06_ has made the advancement [Not Today, Thank You]
+[03:46:28] [Server thread/INFO]: Manu_06_ lost connection: Disconnected
+[03:46:28] [Server thread/INFO]: Manu_06_ left the game
+[03:54:03] [Server thread/INFO]: zifonduo has made the advancement [Isn't It Iron Pick]
+[03:54:20] [Server thread/INFO]: zifonduo lost connection: Disconnected
+[03:54:20] [Server thread/INFO]: zifonduo left the game
+[03:54:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+shutdown<--[HERE]
+[03:54:54] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[03:54:54] [Server thread/INFO]: Stopping server
+[03:54:54] [Server thread/INFO]: Saving players
+[03:54:54] [Server thread/INFO]: Saving worlds
+[03:54:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Saved 46 block chunks, 127 entity chunks, 4 poi chunks in world 'world' in 0.15s
+[03:54:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Saved 794 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.21s
+[03:54:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:54:54] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.18s
+[03:54:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:54:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:54:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:54:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
